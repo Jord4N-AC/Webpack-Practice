@@ -1,7 +1,11 @@
-.hello {
-  color: red;
+body {
+  background-color: rgb(128, 168, 176);
 }
 
-body {
-  background-color: bisque;
+h1 {
+	text-shadow: 0 0 5px rgb(210, 159, 159);
+}
+
+.hello {
+  color: red;
 }
