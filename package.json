@@ -1,0 +1,20 @@
+{
+  "name": "webpack-practice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jord4N-AC/Webpack-Practice.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jord4N-AC/Webpack-Practice/issues"
+  },
+  "homepage": "https://github.com/Jord4N-AC/Webpack-Practice#readme"
+}
