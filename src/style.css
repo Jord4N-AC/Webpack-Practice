@@ -1,3 +1,7 @@
+body {
+    background-color: rgb(57, 128, 209);
+}
+
 .hello {
     color: red;
 }
